@@ -10,7 +10,9 @@ Create an account to save your progress and access it on your phone and laptop.
 
 ## Demo Recording
 
-**[Watch or download the PrepBloom demo](docs/PrepBloom_recording.mov)**
+
+https://github.com/user-attachments/assets/9225b377-c6dc-4842-82bd-35f04046fb5e
+
 
 ## Features
 
