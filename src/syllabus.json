@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Engineering Mathematics",
+    "topics": [
+      {
+        "id": "section-1-topic-1",
+        "text": "Discrete Mathematics: Propositional and first order logic. Sets, relations, functions, partial orders and lattices. Monoids, Groups. Graphs: connectivity, matching, colouring. Combinatorics: counting, recurrence relations, generating functions."
+      },
+      {
+        "id": "section-1-topic-2",
+        "text": "Linear Algebra: Matrices, determinants, system of linear equations, eigenvalues and eigenvectors, LU decomposition."
+      },
+      {
+        "id": "section-1-topic-3",
+        "text": "Calculus: Limits, continuity and differentiability, Maxima and minima, Mean value theorem, Integration."
+      },
+      {
+        "id": "section-1-topic-4",
+        "text": "Probability and Statistics: Random variables, Uniform, normal, exponential, Poisson and binomial distributions. Mean, median, mode and standard deviation. Conditional probability and Bayes theorem."
+      }
+    ],
+    "id": "section-1"
+  },
+  {
+    "title": "Digital Logic",
+    "topics": [
+      {
+        "id": "section-2-topic-1",
+        "text": "Boolean algebra and minimization – algebraic technique, Karnaugh map, tabular method. Design of combinational and sequential circuits. Number representation and arithmetic (fixed and floating point)."
+      }
+    ],
+    "id": "section-2"
+  },
+  {
+    "title": "Computer Organization and Architecture",
+    "topics": [
+      {
+        "id": "section-3-topic-1",
+        "text": "Instruction set and addressing modes. Design of arithmetic and logic unit (ALU). Design of control unit – hardwired and microprogrammed. Memory interfacing and hierarchy: performance, cache memory mapping. I/O interface (interrupt and DMA). Instruction pipelining, pipeline hazards."
+      }
+    ],
+    "id": "section-3"
+  },
+  {
+    "title": "Programming and Data Structures",
+    "topics": [
+      {
+        "id": "section-4-topic-1",
+        "text": "Programming in C. Recursion. Arrays, stacks, queues, linked lists, trees, binary search trees, binary heaps, graphs."
+      }
+    ],
+    "id": "section-4"
+  },
+  {
+    "title": "Algorithms",
+    "topics": [
+      {
+        "id": "section-5-topic-1",
+        "text": "Searching, sorting, hashing. Asymptotic worst case time and space complexity. Algorithm design techniques: greedy, dynamic programming and divide‐and‐conquer. Graph traversals, minimum spanning trees, shortest paths."
+      }
+    ],
+    "id": "section-5"
+  },
+  {
+    "title": "Theory of Computation",
+    "topics": [
+      {
+        "id": "section-6-topic-1",
+        "text": "Regular expressions and finite automata. Context-free grammars and push-down automata. Regular and context-free languages, pumping lemma. Turing machines and undecidability."
+      }
+    ],
+    "id": "section-6"
+  },
+  {
+    "title": "Compiler Design",
+    "topics": [
+      {
+        "id": "section-7-topic-1",
+        "text": "Lexical analysis, parsing, syntax-directed translation. Runtime environments. Intermediate code generation. Local optimisation, Data flow analyses: constant propagation, liveness analysis, common sub expression elimination."
+      }
+    ],
+    "id": "section-7"
+  },
+  {
+    "title": "Operating System",
+    "topics": [
+      {
+        "id": "section-8-topic-1",
+        "text": "System calls, processes, threads, inter‐process communication, concurrency and synchronization. Deadlock. CPU and I/O scheduling. Memory management and virtual memory. File systems."
+      }
+    ],
+    "id": "section-8"
+  },
+  {
+    "title": "Databases",
+    "topics": [
+      {
+        "id": "section-9-topic-1",
+        "text": "ER‐model. Relational model: relational algebra, tuple calculus, SQL. Integrity constraints, normal forms. File organization, indexing (e.g., B and B+ trees). Transactions and concurrency control."
+      }
+    ],
+    "id": "section-9"
+  },
+  {
+    "title": "Computer Networks",
+    "topics": [
+      {
+        "id": "section-10-topic-1",
+        "text": "Principles of Layering; Basics of switching (circuit, packet and virtual circuit) and performance metrics;"
+      },
+      {
+        "id": "section-10-topic-2",
+        "text": "Data link layer: error detection, Medium Access Control, Ethernet; Distance vector and link state routing; IPv4 - Fragmentation, CIDR Notation, Network Address Translation; TCP- flow control and congestion control, socket API; DNS and HTTP."
+      }
+    ],
+    "id": "section-10"
+  }
+]
